@@ -1,2 +1,9 @@
-# Penguine_species_clustering
-In this project I have used Clustering to classify species of penguine, before applying the model the main task was of Data Engineering which included [Outlier Treatment, Standardization, Scaling, PCA] on data.
+Penguin Species Classification Using Clustering
+
+In this project, I employed clustering techniques to classify different species of penguins. The process involved several key steps in data engineering to ensure the quality and reliability of the data:
+
+Outlier Treatment: Identifying and handling outliers to maintain data integrity.
+Standardization: Transforming data to have a mean of zero and a standard deviation of one.
+Scaling: Adjusting the range of data features to a standard scale.
+Principal Component Analysis (PCA): Reducing the dimensionality of the data while retaining most of the variance.
+After these preprocessing steps, I applied clustering algorithms to classify the penguin species effectively.
